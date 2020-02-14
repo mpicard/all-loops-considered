@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://all-loops-considered.dev"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "All Loops Considered"
+theme = "ananke"
