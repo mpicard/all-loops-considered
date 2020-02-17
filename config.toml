@@ -2,6 +2,7 @@ baseURL = "https://all-loops-considered.dev"
 languageCode = "en-us"
 title = "All Loops Considered"
 theme = "hello-friend"
+paginate = 5
 
 [params]
   defaultTheme = "dark"
@@ -9,6 +10,8 @@ theme = "hello-friend"
 [languages]
   [languages.en]
     title = "All Loops Considered"
-    copyright = "2020 Martin Picard"
+    copyright = "2020 © Martin Picard"
+    minuteReadingTime = "min read"
+
     [languages.en.params.logo]
       logoText = "All Loops Considered"
