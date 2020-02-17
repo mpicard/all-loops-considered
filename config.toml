@@ -1,4 +1,14 @@
 baseURL = "https://all-loops-considered.dev"
 languageCode = "en-us"
 title = "All Loops Considered"
-theme = "ananke"
+theme = "hello-friend"
+
+[params]
+  defaultTheme = "dark"
+
+[languages]
+  [languages.en]
+    title = "All Loops Considered"
+    copyright = "2020 Martin Picard"
+    [languages.en.params.logo]
+      logoText = "All Loops Considered"
