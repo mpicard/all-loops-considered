@@ -10,7 +10,7 @@ I was recently asked to take a Tech Lead role for my next project. After a long 
 
 What would a KPI for a Tech Lead look like? I would like to be able to measure my own progress and effectiveness. This is not easy if we forego the classical team metrics like velocity and lead time, etc. These could be related to the Tech Leads performance but not necessarily imply causation.
 
-## Three areas a Tech Lead can observe
+## Three observable areas for a Tech Lead
 
 ### Team Performance
 
