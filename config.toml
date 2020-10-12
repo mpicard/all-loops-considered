@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "All Loops Considered"
 theme = "hello-friend"
 paginate = 5
+enableGitInfo = true
 
 [params]
   defaultTheme = "dark"
