@@ -6,12 +6,18 @@ paginate = 5
 
 [params]
   defaultTheme = "dark"
+  showReadingTime = false
 
 [languages]
   [languages.en]
     title = "All Loops Considered"
     copyright = "2020 © Martin Picard"
-    minuteReadingTime = "min read"
 
     [languages.en.params.logo]
       logoText = "All Loops Considered"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
