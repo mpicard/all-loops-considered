@@ -14,6 +14,7 @@ enableRobotsTXT = true
   [languages.en]
     title = "All Loops Considered"
     copyright = "2020 © Martin Picard"
+    keywords = "software development agile management tech technology code coding"
 
     [languages.en.params.logo]
       logoText = "All Loops Considered"
