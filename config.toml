@@ -4,6 +4,7 @@ title = "All Loops Considered"
 theme = "hello-friend"
 paginate = 5
 enableRobotsTXT = true
+canonifyURLs = true
 
 [params]
   defaultTheme = "dark"
