@@ -1,7 +1,8 @@
 ---
 title: About
 date: 12-10-2020
-cover: img/me.jpg
+cover: /about/images/me.jpg
+readMore: false
 ---
 
 # Hello world
