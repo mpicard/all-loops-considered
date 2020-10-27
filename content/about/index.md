@@ -1,7 +1,7 @@
 ---
 title: About
 date: 12-10-2020
-cover: /about/images/me.jpg
+cover: /about/images/me.webp
 readMore: false
 ---
 

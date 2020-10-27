@@ -2,7 +2,7 @@
 title: How does a Tech Lead measure their progress?
 date: 2020-10-12
 description: Beginning my journey as a Tech Lead. In the spirit of reviving my blog, I would like to write about my personal journey from Senior to Tech Lead
-cover: posts/images/paper_boats.jpg
+cover: posts/images/paper_boats.webp
 coverCaption: Photo by Miguel Á. Padriñán from Pexels
 ---
 
