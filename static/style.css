@@ -2,6 +2,10 @@ body.dark-theme {
   color: #dcdcec;
 }
 
+.dark-theme .copyright {
+  color: #9999ae;
+}
+
 .logo__cursor {
   background-color: #51b5fe;
   border-radius: 2px;
