@@ -13,6 +13,7 @@ canonifyURLs = true
 [languages]
   [languages.en]
     title = "All Loops Considered"
+    subtitle = "An Agile software craftman's blog, tales from inside ThoughtWorks"
     copyright = "2020 © Martin Picard"
     keywords = "software development agile management tech technology code coding"
 
