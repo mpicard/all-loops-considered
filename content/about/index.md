@@ -2,6 +2,7 @@
 title: About
 date: 12-10-2020
 cover: /about/me.webp
+coverAlt: A Photo of me, Martin Picard
 readMore: false
 ---
 

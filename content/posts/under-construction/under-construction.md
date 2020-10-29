@@ -5,6 +5,7 @@ hideReadMore: true
 description: "I'm currently moving All Loops Considered's hosting, theme and making some new content. Come back later."
 cover: /posts/under-construction/construction.webp
 coverCaption: Photo by Anamul Rezwan from Pexels
+coverAlt: Construction site
 ---
 
 I'm currently moving All Loops Considered's hosting, theme and making some new content. Come back later.
