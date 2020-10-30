@@ -1,3 +1,4 @@
 #!/bin/bash
 
-find . -name "*.jpg" -not -path "themes" | parallel -eta cwebp {} -o {.}.webp
+cd content
+find . -name "*.jpg" | parallel -eta cwebp {} -o {.}.webp
