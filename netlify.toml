@@ -31,6 +31,12 @@ HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
   from = "https://all-loops-considered.netlify.app/*"
-  to = "https://all-loops-considered.dev/:splat"
+  to = "https://www.all-loops-considered.dev/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://all-loops-considered.dev/*"
+  to = "https://www.all-loops-considered.dev/:splat"
   status = 301
   force = true
