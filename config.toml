@@ -27,6 +27,6 @@ canonifyURLs = true
         url = "/about"
 
       [[languages.en.menu.main]]
-        identifier = "ada"
+        identifier = "staking-pool"
         name = "Staking Pool"
-        url = "/sake-staking-pool"
+        url = "/staking-pool"
