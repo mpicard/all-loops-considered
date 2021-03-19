@@ -9,13 +9,11 @@ coverAlt: Paper boats
 
 I was recently asked to take a Tech Lead role for my next project. After a long hiatus from writing, I've decided to write about my personal journey as I transition from a Senior Developer to a Tech Lead. I hope that this will be useful for others facing this difficult transition.
 
-<!-- ## What is a Tech Lead? What does a Tech Lead do? -->
-
 ## How to become a Tech Lead?
 
 To flip this proposition around, **why do you want to become a Tech Lead?** If the answer is because you want to help and coach people, want to make others better, more productive, you want to take more responsibility, then you are already transitioning to being a Tech Lead. Start practice these skills now, so you can be a great Tech Lead later.
 
-What would a KPI for a Tech Lead look like? I would like to be able to measure my own progress and effectiveness. This is not easy if we forego the classical team metrics like velocity and lead time, etc. These could be related to the Tech Leads performance but not necessarily imply causation.
+What would ahu KPI for a Tech Lead look like? I would like to be able to measure my own progress and effectiveness. This is not easy if we forego the classical team metrics like velocity and lead time, etc. These could be related to the Tech Leads performance but not necessarily imply causation.
 
 ## Three observable areas for a Tech Lead
 
